@@ -1,5 +1,3 @@
-Pega esto:
-
 
 
 \# Citizen Registry API
